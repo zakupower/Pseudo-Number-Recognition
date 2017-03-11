@@ -7,3 +7,9 @@ and one that is not white. I use that as a pattern and match the differences in 
 The idea of this project was to warm up on the subject of digit recognition so I can start working on one using Neural Network and a Deep Learning algorithm.
 
 ![alt tag](https://raw.githubusercontent.com/zakupower/Pseudo-Number-Recognition/master/Samples/New%20folder/secondGeneration.png)
+
+# Classes
++Pixel - rgba data of every pixel
++ImagePattern - a matrix of pixels
++ImageConverter - converts an image to imagepattern
++NumberGuesser - stores image pattern comparison base and runs image patterns against that base to recognize the numbers
