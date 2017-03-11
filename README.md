@@ -5,4 +5,4 @@ You could say this was my brute force attempt at the problem single digit recogn
 I use a sample gallery of all the digits 0-9 and divide the image into  two areas one that is white
 and one that is not white. I use that as a pattern and match the differences in the patterns.
 
-![alt tag](https://raw.githubusercontent.com/zakupower/Pseudo-Number-Recognition/master/Samples/New Folder/Second Generation.jpg)
+![alt tag](https://raw.githubusercontent.com/zakupower/Pseudo-Number-Recognition/master/Samples/New Folder/secondGeneration.png)
